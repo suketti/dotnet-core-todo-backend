@@ -1,6 +1,4 @@
-﻿using System.Net.Mime;
-
-namespace TodoBackend;
+﻿namespace TodoBackend;
 
 public class TodoItem
 {
